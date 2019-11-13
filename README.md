@@ -33,19 +33,16 @@ Cree un nuevo proyecto de trabajo.
 Ingrese el nombre y la descripción del proyecto y presione crear
 
 ### Paso 5. 
-Cree el despliegue de la aplicación que desea en este caso Node.Js
-
-Seleccione el proyecto que acaba de crear y haga click en la opción buscar catalogo
+Cree el despliegue de la aplicación que desea en este caso Node.Js para esto, seleccione el proyecto que acaba de crear y haga click en la opción buscar catalogo
  
 <img width="960" alt="Imagen5" src="https://user-images.githubusercontent.com/40369712/68797736-1ee27100-0623-11ea-9063-9a6ecb7691a7.PNG"> 
 
 Seleccione la opción Node.Js que desea deplegar en Opneshift y presione crear.
 
-<p align="center">
- <![image](https://user-images.githubusercontent.com/40369712/68798722-e0e64c80-0624-11ea-994d-3dd9667d4042.png)>
-</p>
 
-Una vez creado el despliegue, debe esperar a que este se aprovisione, esto lo podrá visualizar en la pestaña Overview
+ ![image](https://user-images.githubusercontent.com/40369712/68798722-e0e64c80-0624-11ea-994d-3dd9667d4042.png)
+
+Una vez creado el despliegue, debe esperar a que este se aprovisione, esto lo podrá visualizar en la pestaña Overview, donde puede visualizar el estado de la construcción del despliegue y la URL del despliegue de la imagen en Open Shift
 
 <img width="960" alt="Imagen6" src="https://user-images.githubusercontent.com/40369712/68797738-1f7b0780-0623-11ea-97a0-1f675aea2c77.PNG">
 
