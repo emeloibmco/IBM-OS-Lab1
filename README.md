@@ -38,9 +38,8 @@ Seleccione el proyecto que acaba de crear y haga click en la opción buscar cata
  
 <img width="960" alt="Imagen5" src="https://user-images.githubusercontent.com/40369712/68797736-1ee27100-0623-11ea-9063-9a6ecb7691a7.PNG"> 
 
-Seleccione la opción Node.Js
-
-que desea deplegar en Opneshift y presione crear.
+Seleccione la opción Node.Js que desea deplegar en Opneshift y presione crear.
+![image](https://user-images.githubusercontent.com/40369712/68798722-e0e64c80-0624-11ea-994d-3dd9667d4042.png)
 
 Una vez creado el despliegue, debe esperar a que este se aprovisione, esto lo podrá visualizar en la pestaña Overview
 
