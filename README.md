@@ -14,3 +14,5 @@ Inicie sesión con sus credenciales en https://cloud.ibm.com/login
 Paso 2.
 Seleccione de la lista de recursos la opción clusters y el cluster de Openshift en el que desea realizar el despliegue de la aplicación.
  
+<img width="960" alt="Imagen1" src="https://user-images.githubusercontent.com/40369712/68797651-ff4b4880-0622-11ea-868f-5bd8e688782a.PNG">
+
