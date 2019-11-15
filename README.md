@@ -1,7 +1,6 @@
 # IBM-OS-Lab1
 Ejercicio de Open Shift en IBM Cloud
-![OpenShift-LogoType svg](https://user-images.githubusercontent.com/40369712/68799947-24da5100-0627-11ea-81b4-1d2c8af2b123.png)
-
+<img width="960" alt="Imagen1" src="https://user-images.githubusercontent.com/40369712/68799947-24da5100-0627-11ea-81b4-1d2c8af2b123.png">
 
 Prerequisitos para el laboratorio.
 
