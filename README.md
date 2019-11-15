@@ -1,8 +1,8 @@
 # IBM-OS-Lab1
+<p align="center">
 Ejercicio de Open Shift en IBM Cloud
 
-<p align="center">
-<img width="331" alt="1" src="https://user-images.githubusercontent.com/50923637/68958447-25472900-079a-11ea-8022-9ff62e712fde.png">
+<img width="431" alt="1" src="https://user-images.githubusercontent.com/50923637/68958447-25472900-079a-11ea-8022-9ff62e712fde.png">
 </p>
 
 
