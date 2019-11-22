@@ -9,8 +9,8 @@ Ejercicio de Open Shift en IBM Cloud
 
 Prerequisitos para el laboratorio.
 
-Tener aprovisionado un clúster de OpenShift en IBM Cloud
-Clonar el repositorio en otro repositorio que se encuentre publico
+* Tener aprovisionado un clúster de OpenShift en IBM Cloud
+* Clonar el repositorio en otro repositorio que se encuentre publico
 
 ### Paso 1.
 Inicie sesión con sus credenciales en https://cloud.ibm.com/login
@@ -43,7 +43,7 @@ Cree el despliegue de la aplicación que desea en este caso Node.Js para esto, s
  
 <img width="960" alt="Imagen5" src="https://user-images.githubusercontent.com/40369712/68797736-1ee27100-0623-11ea-9063-9a6ecb7691a7.PNG"> 
 
-Seleccione la opción Node.Js que desea deplegar en Opneshift y presione crear.
+Seleccione la opción Node.Js que desea deplegar en Openshift y presione crear.
 
 
  ![image](https://user-images.githubusercontent.com/40369712/68798722-e0e64c80-0624-11ea-994d-3dd9667d4042.png)
