@@ -45,8 +45,15 @@ Cree el despliegue de la aplicación que desea en este caso Node.Js para esto, s
 
 Seleccione la opción Node.Js que desea deplegar en Openshift y presione crear.
 
-
  ![image](https://user-images.githubusercontent.com/40369712/68798722-e0e64c80-0624-11ea-994d-3dd9667d4042.png)
+
+haga click en siguiente
+
+<img width="671" alt="im1" src="https://user-images.githubusercontent.com/40369712/71525818-8259f280-28a1-11ea-881c-4ee3db12db5d.png">
+
+ingrese el nombre y la URL del repositorio del proyecto que desea deslegar y presione crear
+
+<img width="672" alt="im2" src="https://user-images.githubusercontent.com/40369712/71525882-d7960400-28a1-11ea-90c8-17e84fa4aa06.png">
 
 Una vez creado el despliegue, debe esperar a que este se aprovisione, esto lo podrá visualizar en la pestaña Overview, donde puede visualizar el estado de la construcción del despliegue y la URL del despliegue de la imagen en Open Shift
 
